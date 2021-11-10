@@ -149,7 +149,7 @@ public class MobileDaoImpl implements MobileDao {
 		}
 	}
 
-	@Override
+	@Override // Delete Method
 	public void deleteMobileEntity() {
 
 		System.out.println("INVOKED DELETE MOBILE ENTITY");
